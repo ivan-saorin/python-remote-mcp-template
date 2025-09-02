@@ -81,7 +81,6 @@ docker-compose.override.yml
 .dockerignore.local
 
 # CapRover
-captain-definition
 .captain/
 
 # MCP specific
